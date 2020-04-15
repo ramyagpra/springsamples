@@ -1,3 +1,3 @@
 Hi Humans
 
-#sample text inside bracjn version of readme file
+#sample text inside new version of readme file
